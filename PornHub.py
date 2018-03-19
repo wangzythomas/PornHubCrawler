@@ -41,9 +41,3 @@ endTime = time.time()
 timeUsed = endTime - startTime
 print 'Program finished in ', timeUsed, 's'
 corpus.close()
-
-<div class=nf-videos>
-    <ul>
-
-    </ul>
-</div>
